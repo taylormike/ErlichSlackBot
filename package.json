@@ -1,0 +1,16 @@
+{
+  "name": "ErlichChatBot",
+  "version": "1.0.0",
+  "engines": {
+    "node": "0.12.7"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "babel": "^5.0.12",
+    "rx": "^2.5.2",
+    "slack-client": "^1.4.1",
+    "underscore-plus": "^1.6.6"
+  }
+}

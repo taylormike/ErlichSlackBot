@@ -1,1 +1,1 @@
-# ErlichSlackBlot
+# ErlichSlackBot
